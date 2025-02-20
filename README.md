@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shadow4648
+- 👋 Hi, I’m JAy Sharma
 - 👀 I’m interested in Coding, Web and App Development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
